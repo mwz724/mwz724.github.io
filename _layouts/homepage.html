@@ -3,7 +3,7 @@
   <head>
     <style>
       div.a {
-        text-align: right;
+        text-align: left;
       }
     </style>
     <title>{{ site.title }}</title>
@@ -31,16 +31,17 @@
   <body>
     
     <div class="wrapper">
+      
       <header>
-
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
-        <h1>{{ site.title }}</h1> 
-        
         <div class="a">
-        {{ site.affiliation }}
-        <br>
-        {{ site.email }}
-        <br>
+          <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
+          <h1>{{ site.title }}</h1> 
+
+
+          {{ site.affiliation }}
+          <br>
+          {{ site.email }}
+          <br>
         </div>
 
       </header>
