@@ -1,3 +1,5 @@
+---
 title: Photography
-layout: template
+layout: homepage
 filename: photography.md
+---
