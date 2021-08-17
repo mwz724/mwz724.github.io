@@ -1,5 +1,5 @@
 ---
 title: Photography
-layout: homepage
-filename: photography.md
+layout: page
+permalink: /photography
 ---
