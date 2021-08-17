@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,23 +27,14 @@
     <div class="wrapper">
       <header>
         
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
-        {% endif %}
 
+        <a class="image avatar"><img src="{{site.avatar}}" alt="avatar" onContextMenu="return false" /></a>
         <h1>{{ site.title }}</h1> 
         
-        {% if site.position %}
-        {{ site.position }}
-        <br>
-        {% endif %}
         {{ site.affiliation }}
-        {% if site.email %}
         <br>
         {{ site.email }}
         <br>
-        <br>
-        {% endif %}
 
       </header>
       <section>
@@ -56,29 +47,9 @@
 
       </section>
       <footer>
-        <div class="social-icons">
-
-          {% if site.linkedin %}
-          <a href="{{ site.linkedin }}" target="_blank">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-          {% endif %}
-          {% if site.google_scholar %}
-          <a href="{{ site.google_scholar}}" target="_blank">
-            <i class="ai ai-google-scholar" style="font-size:1.6rem"></i>
-          </a>
-          {% endif %}
-          {% if site.github_link %}            
-          <a href="{{ site.github_link }}" target="_blank">
-            <i class="fab fa-github"></i>
-          </a>
-          {% endif %}
-        </div>
-        <br>
-        <br>
-        <br>
       </footer>
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     {% if site.google_analytics %}
     <script>
