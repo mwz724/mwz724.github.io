@@ -3,7 +3,7 @@ title: Photography
 layout: homepage
 permalink: /photography
 ---
-<img src="![2B7BF568-B66D-464F-96E4-D33E449D5A84_1_105_c](https://user-images.githubusercontent.com/85243637/129818005-99501aef-8f9a-48a1-bbf9-502d2b25a40c.jpeg)" 
+<img src=![2B7BF568-B66D-464F-96E4-D33E449D5A84_1_105_c](https://user-images.githubusercontent.com/85243637/129818005-99501aef-8f9a-48a1-bbf9-502d2b25a40c.jpeg) 
 	 style="object-fit:contain;
             width:200px;
             height:300px;"/>
