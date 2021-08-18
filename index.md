@@ -1,14 +1,19 @@
 ---
 layout: homepage
 ---
+<br>
+<br>
+<br>
+<br>
+
 Making and creating.
 
 ## Academic Interests
 
-- **Robotic Control** state estimation, robotic manipulation
+- **Robotic Control:** state estimation, robotic manipulation
 
 ## Non-academic Interests
 
-- Yoga, hiking, running
-- Drawing, painting, photography
-- Reading, writing
+- **Being active:** yoga, hiking, running
+- **Being hands-on:** drawing, painting, photography
+- **Being inquisitive:** reading, writing
