@@ -41,7 +41,7 @@ permalink: /meche
   Custom-building a drone frame
 </h4>
 
-![A26699F9-8B4B-46DD-9ED4-E26454D8FC89_1_102_a](https://user-images.githubusercontent.com/85243637/131031973-e8997338-decd-4f03-ab3d-d7477a49217e.jpeg)
+![8DCFDFCB-0603-4BA0-88ED-DB1D196942B7_1_105_c](https://user-images.githubusercontent.com/85243637/131032916-c5856fd5-aa33-4ea3-add1-c22d69513753.jpeg)
 
 <body> 
   
