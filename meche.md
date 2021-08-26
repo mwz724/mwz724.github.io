@@ -26,6 +26,9 @@ permalink: /meche
 
 <body> 
   Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> here </a> 
+</body>
+
+<body>
   Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
 </body>
 
@@ -44,29 +47,24 @@ permalink: /meche
 ![8DCFDFCB-0603-4BA0-88ED-DB1D196942B7_1_105_c](https://user-images.githubusercontent.com/85243637/131032916-c5856fd5-aa33-4ea3-add1-c22d69513753.jpeg)
 
 <body> 
-  
-  * Skills trained: soldering, cable management
+  Skills trained: soldering, cable management
 </body>
 
 <h4> 
   CADing for 3D Printing
 </h4>
-
-![70B8E09B-7FF0-4D8D-97DF-DF97D6FF93AA_1_105_c](https://user-images.githubusercontent.com/85243637/131031694-110a3096-ad70-40a4-bc18-5041508d6afc.jpeg)
+![70B8E09B-7FF0-4D8D-97DF-DF97D6FF93AA_1_105_c](https://user-images.githubusercontent.com/85243637/131033144-f222b593-710c-4fb4-93f2-9fae34a1ac7f.jpeg)
+![E80C912A-BEBF-4CA2-B33B-FA3AB85E53E9_1_105_c](https://user-images.githubusercontent.com/85243637/131033154-0d5f1eba-7321-4e11-bafb-d9fbfbe548f2.jpeg)
 
 <body>   
-  
-  * Skills trained: CADing in SOLIDWORKS, iterative design as shown above
-
+  Skills trained: CADing in SOLIDWORKS, iterative design as shown above
 </body>
 
 <h4> 
   Integrating Intel RealSense camera with system
 </h4>
 <body>   
-  
-  * Skills trained: coding with C++ in ROS environment, mount design
-
+  Skills trained: coding with C++ in ROS environment, mount design
 </body>
 
 <!---
