@@ -21,9 +21,7 @@ permalink: /meche
 </h4>
 --->
 <body> 
-  
   * Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view </a>
-  
   * Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
 </body>
 
@@ -37,23 +35,20 @@ permalink: /meche
   Custom-building a drone frame
 </h4>
 <body> 
-  
   * Skills trained: soldering, cable management
 </body>
 
 <h4> 
   CADing for 3D Printing
 </h4>
-<body> 
-  
+<body>   
   * Skills trained: CADing in SOLIDWORKS
 </body>
 
 <h4> 
   Integrating Intel RealSense camera with system
 </h4>
-<body> 
-  
+<body>   
   * Skills trained: coding with C++ in ROS environment, mount design
 </body>
 
