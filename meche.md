@@ -63,6 +63,7 @@ permalink: /meche
 <h4> 
   Integrating Intel RealSense camera with system
 </h4>
+![44D23701-B241-4D3B-A3AB-7A2E59BE0B32_1_105_c](https://user-images.githubusercontent.com/85243637/131033581-a0d73aa8-7fcc-464d-b83d-eb0a799d510d.jpeg)
 <body>   
   Skills trained: coding with C++ in ROS environment, mount design
 </body>
