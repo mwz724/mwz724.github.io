@@ -21,7 +21,7 @@ permalink: /meche
 </h4>
 --->
 <body> 
-  * Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view </a>
+  * Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> here </a>
   * Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
 </body>
 
