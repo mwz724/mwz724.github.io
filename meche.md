@@ -11,9 +11,9 @@ permalink: /meche
 <br>
 <br>
 
-<h3> 
+<h2> 
   Spring 2021 Water Pump Group Project - Cornell MAE 2250
-</h3>
+</h2>
 
 <!---
 <h4> 
@@ -25,18 +25,16 @@ permalink: /meche
 ![DDD50C18-F73E-4A37-ABEA-9F8418080DAC_1_102_o](https://user-images.githubusercontent.com/85243637/131031518-42832d3b-934d-4e25-a089-485ed1bbf763.jpeg)
 
 <body> 
-  
-  * Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> here </a>
-  
-  * Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
-
+  Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> here </a> 
+  Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
 </body>
 
+<br>
+<br>
 
-
-<h3> 
+<h2> 
   Summer 2021 Internship - Army Cyber Institute at USMA, West Point 
-</h3>
+</h2>
 ![A26699F9-8B4B-46DD-9ED4-E26454D8FC89_1_102_a](https://user-images.githubusercontent.com/85243637/131031886-f9d29c70-b4d2-4074-9ba0-d549d2b30748.jpeg)
 
 <h4> 
@@ -72,9 +70,9 @@ permalink: /meche
 </body>
 
 <!---
-<h3> 
+<h2> 
   Robotics club projects - Combat Robotics @ Cornell
-</h3>
+</h2>
 
 <h4> 
   2020-21 Sportsman Robot Subteam Project
