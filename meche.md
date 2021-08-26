@@ -34,6 +34,7 @@ permalink: /meche
 
 <br>
 <br>
+<br>
 
 <h2> 
   Summer 2021 Internship - Army Cyber Institute at USMA, West Point 
@@ -50,6 +51,8 @@ permalink: /meche
   Skills trained: soldering, cable management
 </body>
 
+<br>
+<br>
 <h4> 
   CADing for 3D Printing
 </h4>
@@ -59,6 +62,9 @@ permalink: /meche
 <body>   
   Skills trained: CADing in SOLIDWORKS, iterative design as shown above
 </body>
+
+<br>
+<br>
 
 <h4> 
   Integrating Intel RealSense camera with system
