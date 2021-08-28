@@ -12,16 +12,12 @@ permalink: /meche
 <br>
 
 <h2> 
-  Spring 2021 <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Water Pump Group Project</a> - Cornell MAE 2250 
+  <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Water Pump Group Project</a> - Cornell MAE 2250 
 </h2>
 
 ![D256CDE2-60B9-464A-9B11-861FCC64C078_1_105_c](https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg)
 
 ![DDD50C18-F73E-4A37-ABEA-9F8418080DAC_1_102_o](https://user-images.githubusercontent.com/85243637/131031518-42832d3b-934d-4e25-a089-485ed1bbf763.jpeg)
-
-<body> 
-  Report: <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> here </a> 
-</body>
 
 <body>
   Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
@@ -32,7 +28,7 @@ permalink: /meche
 <br>
 
 <h2> 
-  Summer 2021 Internship - Army Cyber Institute at USMA, West Point 
+  Army Cyber Institute Internship at USMA, West Point 
 </h2>
 ![A26699F9-8B4B-46DD-9ED4-E26454D8FC89_1_102_a](https://user-images.githubusercontent.com/85243637/131031886-f9d29c70-b4d2-4074-9ba0-d549d2b30748.jpeg)
 
