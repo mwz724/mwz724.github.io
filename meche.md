@@ -69,6 +69,19 @@ permalink: /meche
   Skills trained: coding with C++ in ROS environment, mount design
 </body>
 
+<br>
+<br>
+
+<h4> 
+  Test flights on-site
+</h4>
+
+![741B4EE5-309F-4921-88CC-714CCF72C1E5_1_201_a](https://user-images.githubusercontent.com/85243637/131229328-6aeb7e53-5bbd-41dc-8a87-a42ec3a3393b.jpeg)
+
+<body>   
+  Skills trained: data collection workflow, troubleshooting
+</body>
+
 <!---
 <h2> 
   Robotics club projects - Combat Robotics @ Cornell
