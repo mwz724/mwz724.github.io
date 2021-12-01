@@ -12,6 +12,10 @@ permalink: /photography
 <!--- Skateboarder --->
 ![Skateboarder-7905](https://user-images.githubusercontent.com/85243637/130877662-babe928d-2b8c-4366-95fd-9116c6b8f367.jpg)
 
+<!--- Brooklyn Bridge --->
+![Brooklyn Bridge-7899](https://user-images.githubusercontent.com/85243637/144305778-6a8bb81a-bcd4-4d4e-b2ab-a05d6ca58d93.jpg)
+
+
 <!--- LA View --->
 ![339E6FFE-09D1-4BAC-83AA-C94AB3BDE3C3_1_105_c](https://user-images.githubusercontent.com/85243637/129817981-46ca9cad-f612-4946-8fbe-fb83b90e92c2.jpeg)
 
