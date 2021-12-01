@@ -94,7 +94,7 @@ permalink: /meche
 </h2>
 
 <h4> 
-  2020-21 Sportsman Robot Subteam Project
+  2020-21 Sportsman Robot: Manny
 </h4>
 
 ![Manny](https://user-images.githubusercontent.com/85243637/144299757-8d57cbe3-4f62-43d5-bc70-47c12170fe38.jpg)
@@ -102,6 +102,12 @@ permalink: /meche
 ![subteam_workin_Manny](https://user-images.githubusercontent.com/85243637/144300039-e2534a99-2e5a-4685-8545-163607a79fbd.JPG)
 
 Skills trained: hand-drilling, mechanical assembly, project management
+
+<h4> 
+  2021-22 Sportsman Robot
+</h4>
+
+Skills trained: drivetrain design, design reasoning, material selection
 
 <!-- <h4> 
   Summer 2020 3lb Robot Group Project
@@ -118,10 +124,11 @@ Skills trained: hand-drilling, mechanical assembly, project management
 
 <body>
 The Breathuino is a physical visualization of one’s heartbeat that expands and contracts, meant to facilitate deep breaths and relaxation. The user begins the kinetic art piece’s movement by interacting with a TCS3200 color sensor and a push button. 
+</body>
 
-- <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
-- <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
-  
+<body>
+* <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
+* <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
 </body>
 
 <br>
