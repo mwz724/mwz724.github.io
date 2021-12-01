@@ -12,11 +12,8 @@ permalink: /meche
 <br>
 
 <h2> 
-  Water Pump Group Project - Cornell MAE 2250 
+  <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Water Pump Group Project</a> - Cornell MAE 2250
 </h2> 
-* <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Technical report (Google Drive public viewing link) </a>
-
-<br>
 
 ![D256CDE2-60B9-464A-9B11-861FCC64C078_1_105_c](https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg)
 
