@@ -82,6 +82,23 @@ permalink: /meche
   Skills trained: data collection workflow, troubleshooting
 </body>
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2> 
+  <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Mechatronics Individual Project: The Breathuino </a> - Cornell MAE 3780 
+</h2>
+
+<body>
+  Skills trained: debugging hardware and Arduino, circuit design, artistic execution
+</body>
+
+
 <!---
 <h2> 
   Robotics club projects - Combat Robotics @ Cornell
@@ -95,3 +112,5 @@ permalink: /meche
   Summer 2020 3lb Robot Group Project
 </h4>
 --->
+
+
