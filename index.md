@@ -12,9 +12,9 @@ layout: homepage
 
 ## Academic Interests
 
-- **Robotic Control:** state estimation, robotic manipulation
+- **Robotics (mechatronic):** state estimation, robotic manipulation
+- **Robotics (mechanical):** material selection
 - **Product Design:** artistic functionality
-- **Naval Architecture:** concise and intuitive modeling of fluid mechanics
 
 
 
