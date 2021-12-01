@@ -54,7 +54,7 @@ permalink: /meche
 
 
 <body>   
-  Skills trained: CADing in SOLIDWORKS, iterative design as shown above
+  Skills trained: CADing in SOLIDWORKS, iterative design
 </body>
 
 <br>
@@ -66,7 +66,7 @@ permalink: /meche
 ![44D23701-B241-4D3B-A3AB-7A2E59BE0B32_1_105_c](https://user-images.githubusercontent.com/85243637/131033812-16ae71a8-91a4-4c09-a0be-ceef343ee31e.jpeg)
 
 <body>   
-  Skills trained: coding with C++ in ROS environment, mount design
+  Skills trained: coding with C++ in ROS environment
 </body>
 
 <br>
@@ -79,7 +79,7 @@ permalink: /meche
 ![741B4EE5-309F-4921-88CC-714CCF72C1E5_1_201_a](https://user-images.githubusercontent.com/85243637/131229328-6aeb7e53-5bbd-41dc-8a87-a42ec3a3393b.jpeg)
 
 <body>   
-  Skills trained: data collection workflow, troubleshooting
+  Skills trained: data collection workflow, troubleshooting, debugging
 </body>
 
 
@@ -129,9 +129,6 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
 
-
-<br>
-<br>
 ![assembly drawing](https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png)
 
 ![breathuino horizontal](https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg)
