@@ -12,15 +12,15 @@ permalink: /meche
 <br>
 
 <h2> 
-  <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Water Pump Group Project</a> - Cornell MAE 2250 
-</h2>
-
+  Water Pump Group Project - Cornell MAE 2250 
+</h2> 
+* <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Technical report (Google Drive public viewing link) </a>
 ![D256CDE2-60B9-464A-9B11-861FCC64C078_1_105_c](https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg)
 
 ![DDD50C18-F73E-4A37-ABEA-9F8418080DAC_1_102_o](https://user-images.githubusercontent.com/85243637/131031518-42832d3b-934d-4e25-a089-485ed1bbf763.jpeg)
 
 <body>
-  Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes
+  Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes, LaTeX typesetting
 </body>
 
 <br>
