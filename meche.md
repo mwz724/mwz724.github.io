@@ -100,7 +100,7 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 
 <br>
 <br>
-![Page10 copy](https://user-images.githubusercontent.com/85243637/144294936-461dcaf1-0e29-4ce3-a545-7f6f6bcaaa70.png)
+![assembly drawing](https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png)
 
 ![breathuino horizontal](https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg)
 
