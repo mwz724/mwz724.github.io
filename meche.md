@@ -95,7 +95,17 @@ permalink: /meche
 </h2>
 
 <body>
-  Skills trained: debugging hardware and Arduino, circuit design, artistic execution
+The Breathuino is a physical visualization of one’s heartbeat that expands and contracts, meant to facilitate deep breaths and relaxation. The user begins the kinetic art piece’s movement by interacting with a TCS3200 color sensor and a push button. 
+</body>
+
+<br>
+<br>
+![Page10 copy](https://user-images.githubusercontent.com/85243637/144294936-461dcaf1-0e29-4ce3-a545-7f6f6bcaaa70.png)
+
+![breathuino horizontal](https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg)
+
+<body>
+  Skills trained: debugging hardware and Arduino code, basic circuit design, artistic execution
 </body>
 
 
