@@ -48,10 +48,10 @@ permalink: /meche
 <br>
 <br>
 <h4> 
-  CADing for 3D Printing
+  Iterative mount design for 3D Printing
 </h4>
 ![70B8E09B-7FF0-4D8D-97DF-DF97D6FF93AA_1_105_c](https://user-images.githubusercontent.com/85243637/131033144-f222b593-710c-4fb4-93f2-9fae34a1ac7f.jpeg)
-![E80C912A-BEBF-4CA2-B33B-FA3AB85E53E9_1_105_c](https://user-images.githubusercontent.com/85243637/131033154-0d5f1eba-7321-4e11-bafb-d9fbfbe548f2.jpeg)
+
 
 <body>   
   Skills trained: CADing in SOLIDWORKS, iterative design as shown above
@@ -98,7 +98,7 @@ permalink: /meche
 <body>
 The Breathuino is a physical visualization of one’s heartbeat that expands and contracts, meant to facilitate deep breaths and relaxation. The user begins the kinetic art piece’s movement by interacting with a TCS3200 color sensor and a push button. 
   
-  <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
+<a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
   
 </body>
 
