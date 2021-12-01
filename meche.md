@@ -126,10 +126,9 @@ Skills trained: drivetrain design, design reasoning, material selection
 The Breathuino is a physical visualization of one’s heartbeat that expands and contracts, meant to facilitate deep breaths and relaxation. The user begins the kinetic art piece’s movement by interacting with a TCS3200 color sensor and a push button. 
 </body>
 
-<body>
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
-</body>
+
 
 <br>
 <br>
