@@ -10,6 +10,6 @@ permalink: /about
 <br>
 <br>
 
-- ** Major:** Mechanical Engineering
-- ** Minor:** Fine Arts
-- ** Current project:** mechatronics table top meditation buddy
+- **Major:** Mechanical Engineering
+- **Minor:** Fine Arts
+- **Current project:** block-collecting robot
