@@ -66,7 +66,7 @@ permalink: /meche
 ![44D23701-B241-4D3B-A3AB-7A2E59BE0B32_1_105_c](https://user-images.githubusercontent.com/85243637/131033812-16ae71a8-91a4-4c09-a0be-ceef343ee31e.jpeg)
 
 <body>   
-  Skills trained: coding with C++ in ROS environment
+  Skills trained: coding with C++ in ROS environment, version control
 </body>
 
 <br>
@@ -148,11 +148,10 @@ asdfasdfasdf
 <h2> 
   Mechatronics Group Project - Cornell MAE 3780
 </h2>
-<br>
 <body>
 My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, built, and coded a robot using lab materials for the Robot Competition Showcase in Duffield on December 7, 2021. Our bot features block detection by means of 2 ultrasonic sensors, color detection, and black border detection by means of 2 QTI sensors. Our strategy is slow and steady with intelligence and combative skills.
 </body>
-
+<br>
 ![Belle](https://user-images.githubusercontent.com/85243637/145868445-f813c2ce-f223-430c-8a37-1558d0176330.jpg)
 <img width="675" alt="Circuit top" src="https://user-images.githubusercontent.com/85243637/145868542-6ba74c2b-b4d8-4778-a7b8-e525fd440bd7.png">
 
