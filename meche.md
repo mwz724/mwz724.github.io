@@ -142,4 +142,19 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 asdfasdfasdf
 --->
 
+<h2> 
+  Mechatronics Group Project - Cornell MAE 3780
+</h2>
 
+<body>
+My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, built, and coded a robot using lab materials for the Robot Competition Showcase in Duffield on December 7, 2021. Our bot features block detection by means of 2 ultrasonic sensors, color detection, and black border detection by means of 2 QTI sensors. Our strategy is slow and steady with intelligence and combative skills.
+</body>
+
+![Belle](https://user-images.githubusercontent.com/85243637/145868445-f813c2ce-f223-430c-8a37-1558d0176330.jpg)
+<img width="675" alt="Circuit top" src="https://user-images.githubusercontent.com/85243637/145868542-6ba74c2b-b4d8-4778-a7b8-e525fd440bd7.png">
+
+<img width="691" alt="Circuit 2" src="https://user-images.githubusercontent.com/85243637/145868553-95b76338-082a-4e8c-90ed-09959ec8a34a.png">
+
+<body>
+  Skills trained: coding with registers in Arduino, techncial datasheet usage, circuit diagram drawing, troubleshooting, code breakdown then integration, pair coding
+</body>
