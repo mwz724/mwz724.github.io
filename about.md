@@ -12,4 +12,4 @@ permalink: /about
 
 - **Major:** Mechanical Engineering
 - **Minor:** Fine Arts
-- **Current project:** block-collecting robot
+- **Current read:** Life of Pi
