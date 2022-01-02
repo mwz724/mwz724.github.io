@@ -12,14 +12,13 @@ layout: homepage
 
 ## Academic Interests
 
-- **Robotics (mechatronic):** state estimation, robotic manipulation
-- **Robotics (mechanical):** material selection
-- **Product Design:** artistic functionality
+- **Mechatronics:** state estimation, robotic manipulation
+- **Material Science:** material selection, mechanical testing, polymers
 
 
 
 ## Non-academic Interests
 
-- **Being active:** yoga, hiking, running
+- **Being active:** yoga, hiking, running, dancing
 - **Being hands-on:** drawing, painting, photography
 - **Being inquisitive:** reading, journaling
