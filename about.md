@@ -12,4 +12,4 @@ permalink: /about
 
 - **Major:** Mechanical Engineering
 - **Minor:** Fine Arts
-- **Current read:** Life of Pi
+- **Current read:** Norwegian Wood
