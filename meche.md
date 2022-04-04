@@ -84,13 +84,16 @@ My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, bu
 <br>
 
 <h2> 
-  <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Water Pump Group Project</a> - Cornell MAE 2250
+  <a href= "https://drive.google.com/file/d/1rhWu1hSy8w7UGFqcLZ9dSepFJnpRx_bB/view" target="_blank"> Double-Piston Water Pump </a> 
 </h2> 
+<h4>
+  Mechanical Synthesis Group Project - Cornell MAE 2250
+</h4>
 
 ![D256CDE2-60B9-464A-9B11-861FCC64C078_1_105_c](https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg)
 
 <body>
-  Skills trained: CADing in Fusion 360, milling, drilling, tapping and threading holes, LaTeX typesetting
+  Skills trained: collaboration, honesty and communication, CADing in Fusion 360, milling, drilling, tapping and threading holes, LaTeX typesetting
 </body>
 
 <br>
