@@ -10,22 +10,7 @@ permalink: /meche
 <br>
 <br>
 <br>
-<!--
-<h2> 
-  Robotics Team Projects - Combat Robotics @ Cornell
-</h2>
--->
-<!--
-<h4> 
-  2020-21 Sportsman Robot: Manny
-</h4>
 
-![Manny](https://user-images.githubusercontent.com/85243637/144299757-8d57cbe3-4f62-43d5-bc70-47c12170fe38.jpg)
-![Chassis Assembly v84](https://user-images.githubusercontent.com/85243637/144299761-33552ab8-60f8-4102-95bb-6c9bb0339dff.png)
-![subteam_workin_Manny](https://user-images.githubusercontent.com/85243637/144300039-e2534a99-2e5a-4685-8545-163607a79fbd.JPG)
-
-Skills trained: hand-drilling, mechanical assembly, project management
--->
 
 <h2> 
   Lance, a Combat Robot
