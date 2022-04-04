@@ -19,6 +19,7 @@ permalink: /meche
 <h4>
   The 2021-22 Sportsman Robot of Combat Robotics @ Cornell
 </h4>
+![Full_Assembly_2022-Apr-04_05-26-19AM-000_CustomizedView7505687192_jpg](https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg)
 
 ![lance_angled_sexy](https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg)
 
