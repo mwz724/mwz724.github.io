@@ -13,3 +13,4 @@ permalink: /about
 - **Major:** Mechanical Engineering
 - **Minor:** Fine Arts
 - **Current read:** Norwegian Wood
+- **Hometown:** San Jose, CA
