@@ -14,7 +14,8 @@ permalink: /meche
 <h2> 
   Robotics Team Projects - Combat Robotics @ Cornell
 </h2>
-
+-->
+<!--
 <h4> 
   2020-21 Sportsman Robot: Manny
 </h4>
@@ -25,6 +26,7 @@ permalink: /meche
 
 Skills trained: hand-drilling, mechanical assembly, project management
 -->
+
 <h2> 
   Lance, a Combat Robot
 </h2>
