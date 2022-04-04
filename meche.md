@@ -32,6 +32,20 @@ Skills trained: project management, soldering, mechanical assembly, problem-solv
 <br>
 
 <h2> 
+  <a href= "https://drive.google.com/file/d/10YqeEhGMISLZyTYW2SVTBEvJ9jEfVKPQ/view?usp=sharing" target="_blank"> Methods of Electrospun Nanofibers Design for Wound Dressing Applications </a> 
+</h2>
+<h4>
+   A Scientific Literature Review - Cornell MAE 4670 Polymer Mechanics
+</h4>
+<body>
+  <img width="681" alt="polymers lit review" src="https://user-images.githubusercontent.com/85243637/161608274-97a5c52a-c362-488f-9d9c-9546dd5401fc.png">
+</body>
+
+<br>
+<br>
+<br>
+
+<h2> 
   The Breathuino
 </h2>
 <h4>
