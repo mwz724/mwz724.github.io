@@ -13,7 +13,7 @@ layout: homepage
 ## Academic Interests
 
 - **System Dynamics:** mechatronics, state estimation, robotic manipulation
-- **Material Science:** material selection, mechanical testing, polymers
+- **Product Development:** artistic vision, material selection, mechanical testing
 
 
 
