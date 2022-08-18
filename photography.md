@@ -9,8 +9,9 @@ permalink: /photography
 <!--- Bryce Canyon stars --->
 ![8BAE813B-D09D-4E2C-B2B1-7379332F883E_1_105_c](https://user-images.githubusercontent.com/85243637/130878218-a2c027ba-4be9-4675-9c27-27c0fc32b02e.jpeg)
 
-<!--- Skateboarder --->
-![Skateboarder-7905](https://user-images.githubusercontent.com/85243637/130877662-babe928d-2b8c-4366-95fd-9116c6b8f367.jpg)
+<!--- Santa Cruz --->
+![Santa Cruz](https://user-images.githubusercontent.com/85243637/185485215-4237b7fd-4ec5-42bd-b05d-558da757f0b8.jpg)
+
 
 <!--- Brooklyn Bridge --->
 ![Brooklyn Bridge-7899](https://user-images.githubusercontent.com/85243637/144305778-6a8bb81a-bcd4-4d4e-b2ab-a05d6ca58d93.jpg)
@@ -22,8 +23,9 @@ permalink: /photography
 <!--- LA Cityscape --->
 ![Vintage city-7623](https://user-images.githubusercontent.com/85243637/130877893-200bbf79-5c8a-4118-a4b5-d08618d9a71f.jpg)
 
-<!--- Dog Walker --->
-![Dog Walker-7535](https://user-images.githubusercontent.com/85243637/130877858-017ca47e-d416-49cd-a9d6-cb17f6244c09.jpg)
+<!--- Jin Chinatown --->
+![Jin Chinatown](https://user-images.githubusercontent.com/85243637/185485279-4bf89216-d97e-4a5e-8dce-3a9616556894.jpg)
+
 
 <!--- Zion --->
 ![2B7BF568-B66D-464F-96E4-D33E449D5A84_1_105_c](https://user-images.githubusercontent.com/85243637/129818005-99501aef-8f9a-48a1-bbf9-502d2b25a40c.jpeg) 
