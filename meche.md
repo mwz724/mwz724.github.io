@@ -115,10 +115,10 @@ My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, bu
 <br>
 
 <h2> 
-  Phoneix and Genie, a custom-built research drone and its spare
+  Phoneix and Genie, a custom-built research drone + spare
 </h2>
 <h4>
-  Research work under MAJ Mark Lesak at the Army Cyber Institute Internship at USMA, West Point 
+  Research work under MAJ Mark Lesak at the Army Cyber Institute at USMA, West Point 
 </h4>
 
 ![A26699F9-8B4B-46DD-9ED4-E26454D8FC89_1_102_a](https://user-images.githubusercontent.com/85243637/131031886-f9d29c70-b4d2-4074-9ba0-d549d2b30748.jpeg)
@@ -144,20 +144,6 @@ My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, bu
 
 <body> 
   Skills trained: soldering, cable management
-</body>
-
-<br>
-<br>
-
-
-<h4> 
-  Iterative mount design for 3D Printing
-</h4>
-![70B8E09B-7FF0-4D8D-97DF-DF97D6FF93AA_1_105_c](https://user-images.githubusercontent.com/85243637/131033144-f222b593-710c-4fb4-93f2-9fae34a1ac7f.jpeg)
-
-
-<body>   
-  Skills trained: CADing in SOLIDWORKS, iterative design
 </body>
 
 <br>
