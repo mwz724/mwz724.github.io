@@ -12,5 +12,5 @@ permalink: /about
 
 - **Major:** Mechanical Engineering
 - **Minor:** Fine Arts
-- **Current read:** Norwegian Wood
+- **Current read:** All the Light We Cannot See
 - **Hometown:** San Jose, CA
