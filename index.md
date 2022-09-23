@@ -12,8 +12,8 @@ layout: homepage
 
 ## Academic Interests
 
-- **System Dynamics:** mechatronics, robotic manipulation
-- **Product Development:** artistic vision, material selection, mechanical testing
+- **Robotics:** mechatronics, path planning, sensor fusion
+- **Product Development:** artistic vision, prototyping, material selection
 
 
 
