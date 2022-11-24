@@ -12,9 +12,11 @@ permalink: /meche
 <br>
 
 <h2> 
-  Hydration System
+  Recirculating Hydration Module
 </h2>
-![3D Resin Print](https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg)
+<!-- ![3D Resin Print](https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg) -->
+
+<img src="[drawing.jpg](https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg)" alt="3D Resin Print" width="200"/>
 
 ![Hydration System](https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif)
 
