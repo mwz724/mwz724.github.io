@@ -15,7 +15,7 @@ permalink: /meche
   Recirculating Hydration Module
 </h2>
 
-<img src="https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg" alt="3D Resin Print" height="200"/> <img src="https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif" alt="Hydration" height="200"/> 
+<img src="https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg" alt="3D Resin Print" height="250"/> <img src="https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif" alt="Hydration" height="250"/> 
 
 <body>
 Skills trained: design for drop-in replacement, 3D resin printing-washing-drying process, tolerancing, product validation testing (design)
@@ -33,7 +33,7 @@ Skills trained: design for drop-in replacement, 3D resin printing-washing-drying
   The 2021-22 Sportsman Robot of Combat Robotics @ Cornell
 </h4>
 
-<img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="400"/> <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="400"/>
+<img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="500"/> <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="500"/>
 
 <body>
 Skills trained: project management, soldering, mechanical assembly, problem-solving tolerancing issues, drivetrain design, design reasoning
@@ -70,8 +70,8 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
 
-<img src="https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png" alt="Assembly Drawing" width="400"/> 
-<img src="https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg" alt="Breathuino Horizontal" width="400"/> 
+<img src="https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png" alt="Assembly Drawing" width="500"/> 
+<img src="https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg" alt="Breathuino Horizontal" width="500"/> 
 
 <body>
   Skills trained: debugging hardware and Arduino code, basic circuit design, artistic execution
@@ -92,10 +92,10 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, built, and coded a robot using lab materials for the Robot Competition Showcase in Duffield on December 7, 2021. Our bot features block detection by means of 2 ultrasonic sensors, color detection, and black border detection by means of 2 QTI sensors. Our strategy is slow and steady with intelligence and combative skills.
 </body>
 <br>
-<img width="400" alt="Belle" src="https://user-images.githubusercontent.com/85243637/145868445-f813c2ce-f223-430c-8a37-1558d0176330.jpg">
+<img width="500" alt="Belle" src="https://user-images.githubusercontent.com/85243637/145868445-f813c2ce-f223-430c-8a37-1558d0176330.jpg">
 
-<img width="400" alt="Circuit 1" src="https://user-images.githubusercontent.com/85243637/145868542-6ba74c2b-b4d8-4778-a7b8-e525fd440bd7.png">
-<img width="400" alt="Circuit 2" src="https://user-images.githubusercontent.com/85243637/145868553-95b76338-082a-4e8c-90ed-09959ec8a34a.png">
+<img width="500" alt="Circuit 1" src="https://user-images.githubusercontent.com/85243637/145868542-6ba74c2b-b4d8-4778-a7b8-e525fd440bd7.png">
+<img width="500" alt="Circuit 2" src="https://user-images.githubusercontent.com/85243637/145868553-95b76338-082a-4e8c-90ed-09959ec8a34a.png">
 
 <body>
   Skills trained: coding with registers in Arduino, techncial datasheet usage, circuit diagram drawing, troubleshooting, code breakdown then integration, pair coding
@@ -112,9 +112,7 @@ My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, bu
   Mechanical Synthesis Group Project - Cornell MAE 2250
 </h4>
 
-<!-- ![D256CDE2-60B9-464A-9B11-861FCC64C078_1_105_c](https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg) -->
-
-<img width="400" alt="pump" src="https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg">
+<img width="500" alt="pump" src="https://user-images.githubusercontent.com/85243637/131031499-12d37e36-decc-448b-8fe1-1c1ca5a303e7.jpeg">
 
 <body>
   Skills trained: collaboration, honesty and communication, CADing in Fusion 360, milling, drilling, tapping and threading holes, LaTeX typesetting
@@ -146,7 +144,7 @@ My team of 3 (Michelle Zhou, Bruno Tassari, and Alvaro Lee Borrell) designed, bu
 </h4>
 <!-- ![44D23701-B241-4D3B-A3AB-7A2E59BE0B32_1_105_c](https://user-images.githubusercontent.com/85243637/131033812-16ae71a8-91a4-4c09-a0be-ceef343ee31e.jpeg) -->
 
-<img width="400" alt="cameras" src="https://user-images.githubusercontent.com/85243637/131033812-16ae71a8-91a4-4c09-a0be-ceef343ee31e.jpeg">
+<img width="500" alt="cameras" src="https://user-images.githubusercontent.com/85243637/131033812-16ae71a8-91a4-4c09-a0be-ceef343ee31e.jpeg">
 
 <body>   
   Skills trained: coding with C++ in ROS environment, version control
