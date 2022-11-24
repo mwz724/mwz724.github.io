@@ -15,6 +15,7 @@ permalink: /meche
   Recirculating Hydration Module
 </h2>
 Pathology requires rehydration of wax tissue blocks, and this modular fluid-mechanical design offers 2 methods of delivering water from a reservoir to a set of blocks in a controlled and easily-cleanable manner. 
+
 <img src="https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg" alt="3D Resin Print" height="250"/> <img src="https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif" alt="Hydration" height="250"/> 
 
 <body>
@@ -32,7 +33,10 @@ Skills trained: design for drop-in replacement, 3D resin printing-washing-drying
 <h4>
   The 2021-22 Sportsman Robot of Combat Robotics @ Cornell
 </h4>
-Lance is a 12 lb combat robot designed, manufactured, and assembled by a team of 9 Cornell students. He is teleoperated, operates on a smooth indirect drive, and wields a snappy 11" aluminum lance. <img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="500"/> <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="500"/>
+Lance is a 12 lb combat robot designed, manufactured, and assembled by a team of 9 Cornell students. He is teleoperated, operates on a smooth indirect drive, and wields a snappy 11" aluminum lance. 
+
+<img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="500"/> 
+<img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="500"/>
 
 <body>
 Skills trained: project management, soldering, mechanical assembly, problem-solving tolerancing issues, drivetrain design, design reasoning
