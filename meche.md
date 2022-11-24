@@ -16,7 +16,7 @@ permalink: /meche
 </h2>
 <!-- ![3D Resin Print](https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg) -->
 
-<img src="https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg" alt="3D Resin Print" height="350"/> <img src="https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif" alt="Hydration" height="350"/> 
+<img src="https://user-images.githubusercontent.com/85243637/199062479-1bce6b20-73c8-4e8c-9a84-1bfb5399d8b8.jpeg" alt="3D Resin Print" height="300"/> <img src="https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif" alt="Hydration" height="300"/> 
 
 <!-- ![Hydration System](https://user-images.githubusercontent.com/85243637/199062327-54d77c92-8b68-49e3-9bcc-b2e4b52cc835.gif)
  -->
@@ -39,7 +39,7 @@ Skills trained: design for drop-in replacement, 3D resin printing-washing-drying
 <!-- ![lance_angled_sexy](https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg)
  -->
  
-<img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" height="350"/> <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" height="350"/>
+<img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="350"/> <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="350"/>
 
 <body>
 Skills trained: project management, soldering, mechanical assembly, problem-solving tolerancing issues, drivetrain design, design reasoning
@@ -76,11 +76,7 @@ The Breathuino is a physical visualization of one’s heartbeat that expands and
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Michelle_Zhou_mwz7_Mechatronics_Individual_Project_Final_Technical_Report.pdf"> Technical report download (pdf file) </a> 
 * <a id="raw-url" href="https://raw.githubusercontent.com/mwz724/mwz724.github.io/master/Indiv_Proj_Github.zip"> Code download (zip file) </a> 
 
-<img src="https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png" alt="Assembly Drawing" height="300"/> <img src="https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg" alt="Breathuino Horizontal" height="300"/> 
-
-<!-- 
-![assembly drawing](https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png)
-![breathuino horizontal](https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg) -->
+<img src="https://user-images.githubusercontent.com/85243637/144295914-c51cb006-877e-4a01-8b30-6b72ae628ebe.png" alt="Assembly Drawing" width="300"/> <img src="https://user-images.githubusercontent.com/85243637/144295208-6c699091-a58a-44fe-a5bb-a66ad2d0a48c.jpg" alt="Breathuino Horizontal" width="300"/> 
 
 <body>
   Skills trained: debugging hardware and Arduino code, basic circuit design, artistic execution
