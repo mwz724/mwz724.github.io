@@ -35,6 +35,9 @@ Skills trained: design for drop-in replacement, 3D resin printing-washing-drying
 </h4>
 Lance is a 12 lb combat robot designed, manufactured, and assembled by a team of 9 Cornell students. He is teleoperated, operates on a smooth indirect drive, and wields a snappy 11" aluminum lance. 
 
+* <a id="raw-url" href="https://github.com/mwz724/mwz724.github.io/blob/6c78e82d282df218c291576c6ad1d0bb1ea16877/CRC%20Sportsman%20Spring%202022%20Final%20Report.pdf"> Spring 2022 final technical report download (pdf file) </a> 
+* <a id="raw-url" href="https://github.com/mwz724/mwz724.github.io/blob/430ea9f708a057617c4d68276312b1348b218dad/CDR%20Sportsman%20Mechanical.pptx"> Fall 2022 final design review download (pptx file) </a>  
+
 <img src="https://user-images.githubusercontent.com/85243637/161480359-123e3f28-65cd-4529-94aa-9dd9faf2dc56.jpg" alt="Full Assembly" width="500"/> 
 <img src="https://user-images.githubusercontent.com/85243637/161474892-766abc10-6cdc-4b2b-9463-5c4fa12827e9.jpg" alt="lance_angled_sexy" width="500"/>
 
@@ -47,11 +50,13 @@ Skills trained: project management, soldering, mechanical assembly, problem-solv
 <br>
 
 <h2> 
-  <a href= "https://drive.google.com/file/d/1atOSm2pxmw0d3sjPh10_nhPB5x2RGtlq/view?usp=sharing" target="_blank"> Review of Electrospun Nanofiber Design </a> 
+  Review of Electrospun Nanofiber Design
 </h2>
 <h4>
    A Scientific Literature Review - Cornell MAE 4670 Polymer Mechanics
 </h4>
+* <a id="raw-url" href="https://github.com/mwz724/mwz724.github.io/blob/808294fb1c51d22971cf05395d34c5a0a9d14554/Methods%20of%20Electrospun%20Nanofibers%20Design%20for%20Wound%20Dressing%20Applications%20-%20Michelle%20Zhou.pdf"> Document download (pdf file) </a>  
+
 <body>
   <img width="500" alt="polymers lit review" src="https://user-images.githubusercontent.com/85243637/161608274-97a5c52a-c362-488f-9d9c-9546dd5401fc.png">
 </body>
