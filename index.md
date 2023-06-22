@@ -12,13 +12,13 @@ layout: homepage
 
 ## Academic Interests
 
-- **Robotics:** mechatronics, motion planning, sensing
-- **Product Development:** artistic vision, prototyping, material selection
+- **Robotics:** mechatronics, sensing
+- **Product Development:** mechanical design, prototyping, material selection
 
 
 
 ## Non-academic Interests
 
-- **Being active:** skateboarding, ice skating
+- **Being active:** skateboarding, dancing
 - **Being hands-on:** drawing, painting
 - **Being inquisitive:** reading, journaling
