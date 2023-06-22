@@ -12,5 +12,5 @@ permalink: /about
 
 - **Major:** Mechanical Engineering
 - **Minor:** Fine Arts
-- **Current read:** All the Light We Cannot See
+- **Current read:** Pinball by Haruki Murakami
 - **Hometown:** San Jose, CA
